@@ -26,8 +26,8 @@ http://localhost:3000
 You can open multiple tabs or share the URL with others on your local network to test real-time communication.
 
 ## Future Enhancements
- Add user authentication.
- Support private messages or chat rooms.
- Add message timestamps.
- Deploy to a cloud provider.
- Enhance UI with additional styling or themes.
+ 1. Add user authentication.
+ 2. Support private messages or chat rooms.
+ 3. Add message timestamps.
+ 4. Deploy to a cloud provider.
+ 5. Enhance UI with additional styling or themes.
